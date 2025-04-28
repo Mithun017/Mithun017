@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family:serif; font-weight:900;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Abi+Sheik!;Full-Stack+Developer;Building+Creative+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&width=435&lines=Stack+Developer;Machine+Learning;Data+Scientist;Building+Cool+Things+%F0%9F%9A%80" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -59,8 +59,8 @@
 ## 📊 <span style="font-family:serif; font-size: 22px;"><strong>GitHub Analytics</strong></span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abi-de-jo&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abi-de-jo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MithunM&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunM&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 🔥 <span style="font-family:serif; font-size: 22px;"><strong>Contribution Graph</strong></span>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abi-de-jo&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MithunM&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
 </p>
 
 ---
@@ -78,3 +78,4 @@
 ```txt
 "Striving to make the web a better place,
   One project, one innovation, one repo at a time."
+```
