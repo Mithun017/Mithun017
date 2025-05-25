@@ -59,8 +59,9 @@
 ## 📊 <span style="font-family:serif; font-size: 22px;"><strong>GitHub Analytics</strong></span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight&hide_border=true" />
+  
 </p>
 
 ---
