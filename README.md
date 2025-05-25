@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family:serif; font-weight:900;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&width=435&lines=Stack+Developer;Machine+Learning;Data+Scientist;Building+Cool+Things+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning;Data+Scientist;Building+Cool+Things+%F0%9F%9A%80" alt="Typing Animation" />
 </h1>
 
 <p align="center">
