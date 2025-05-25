@@ -59,8 +59,8 @@
 ## 📊 <span style="font-family:serif; font-size: 22px;"><strong>GitHub Analytics</strong></span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MithunM&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunM&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 🔥 <span style="font-family:serif; font-size: 22px;"><strong>Contribution Graph</strong></span>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MithunM&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
 </p>
 
 ---
