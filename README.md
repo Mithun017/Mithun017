@@ -8,6 +8,10 @@
   <strong>🚀 AI & Data Science | Generative AI | ML Systems | Backend Engineering</strong>
 </p>
 
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="320" alt="Coding Animation" />
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -73,6 +77,15 @@ I work at the intersection of **Machine Learning, Generative AI, and Backend Eng
 
 * AWS, Docker, Git, GitHub
 * CI/CD Pipelines, API Integration, Deployment
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://img.shields.io/github/public-repos/Mithun017?label=Public%20Repositories&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/Mithun017?label=Followers&style=for-the-badge&color=green" />
+</p>
 
 ---
 
