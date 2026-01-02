@@ -76,9 +76,6 @@ I work at the intersection of **Machine Learning, Generative AI, and Backend Eng
 
 ---
 
-
----
-
 ## 📁 Repositories
 
 I actively maintain and experiment with projects across **AI, Machine Learning, Backend Systems, and Cloud Engineering**.
