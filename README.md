@@ -46,16 +46,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,prisma,figma,npm" />
 </p>
 
----
-
-## 💻 <span style="font-family:serif; font-size: 22px;"><strong>My Gear Setup</strong></span>
-
-| 💻 *Laptop*           | 🧠 *Processor*  | 🎮 *Graphics*      | 🔋 *RAM* |
-|------------------------|------------------|----------------------|------------|
-| Lenovo IdeaPad Slim 3  | Ryzen 5 4600U    | Radeon Integrated    | 8GB        |
-
----
-
 ## 📊 <span style="font-family:serif; font-size: 22px;"><strong>GitHub Analytics</strong></span>
 
 <p align="center">
