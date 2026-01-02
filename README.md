@@ -80,15 +80,6 @@ I work at the intersection of **Machine Learning, Generative AI, and Backend Eng
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://img.shields.io/github/public-repos/Mithun017?label=Public%20Repositories&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/followers/Mithun017?label=Followers&style=for-the-badge&color=green" />
-</p>
-
----
-
 ## 📁 Repositories
 
 I actively maintain and experiment with projects across **AI, Machine Learning, Backend Systems, and Cloud Engineering**.
