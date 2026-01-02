@@ -45,6 +45,10 @@ My experience spans **35+ real-world projects**, **30+ certifications**, and int
 
 ### 🧠 AI & Machine Learning
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
 * Machine Learning, Deep Learning (CNN, RNN, LSTM, Transformers)
 * Generative AI, Large Language Models (LLMs), Agentic AI
 * NLP, Embeddings, Recommender Systems
@@ -53,9 +57,15 @@ My experience spans **35+ real-world projects**, **30+ certifications**, and int
 
 ### 💻 Programming
 
-* Python, C, C++, R, JavaScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,r,javascript" />
+</p>
 
 ### ⚙️ Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,mongodb" />
+</p>
 
 * TensorFlow, PyTorch, LangChain
 * Hugging Face, OpenAI APIs
@@ -65,6 +75,10 @@ My experience spans **35+ real-world projects**, **30+ certifications**, and int
 
 ### ☁️ Cloud & DevOps
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
 * AWS, Docker, Git, GitHub
 * CI/CD Pipelines, API Integration, Deployment
 
@@ -73,7 +87,13 @@ My experience spans **35+ real-world projects**, **30+ certifications**, and int
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight&hide_border=true" alt="Mithun017 GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repos/Mithun017?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/Mithun017?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/followers/Mithun017?style=for-the-badge&color=green" />
 </p>
 
 ---
@@ -86,6 +106,12 @@ My experience spans **35+ real-world projects**, **30+ certifications**, and int
 
 ---
 
+## 💬 Personal Statement
+
+```txt
+"I aim to build intelligent systems that are reliable, scalable,
+and impactful — turning ideas into real-world AI solutions."
+```
 
 ---
 
@@ -96,14 +122,5 @@ My experience spans **35+ real-world projects**, **30+ certifications**, and int
 * **IEEE Published Author**
 
 ---
-
-## 💬 Personal Statement
-
-```txt
-"I aim to build intelligent systems that are reliable, scalable,
-and impactful — turning ideas into real-world AI solutions."
-```
-
-
 
 ⭐ Feel free to explore my repositories or reach out for collaborations and opportunities.
