@@ -8,9 +8,16 @@
   <strong>🚀 AI & Data Science | Generative AI | ML Systems | Backend Engineering</strong>
 </p>
 
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="320" alt="Coding Animation" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="280" alt="Coding Animation" />
+</td>
+<td align="center" width="50%">
+  <img src="https://raw.githubusercontent.com/Mithun017/Mithun017/main/assets/hacker-girl.png" width="280" alt="Hacker Illustration" />
+</td>
+</tr>
+</table>
 
 ---
 
