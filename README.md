@@ -99,6 +99,10 @@ I actively maintain and experiment with projects across **AI, Machine Learning, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&theme=react-dark&hide_border=true" />
 </p>
 
+## 📈 Stats
+![](https://github-readme-stats.vercel.app/api?username=Mithun017&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mithun017&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 🧑‍💻 Leadership & Recognition
