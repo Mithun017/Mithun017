@@ -1,116 +1,227 @@
-<h1 align="center">Hi, I'm <strong>M Mithun</strong> 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate;Applied+AI+%26+ML+Engineer;Generative+AI+%7C+LLMs+%7C+AI+Agents;Backend+%26+Intelligent+Systems;Building+Impactful+AI+Solutions" alt="Typing SVG" />
-</p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=M%20MITHUN&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=58&descSize=22&animation=fadeIn" />
 
-<p align="center">
-  <strong>🚀 AI & Data Science | Generative AI | ML Systems | Backend Engineering</strong>
-</p>
+</div>
 
+<div align="center">
 
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="320" alt="Coding Animation" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7DF9FF&center=true&vCenter=true&multiline=false&width=700&height=45&lines=🤖+Building+Intelligent+Systems+from+Ground+Up;🧠+LLMs+%7C+Agentic+AI+%7C+Generative+Systems;⚡+Turning+Raw+Data+into+Real-World+AI+Products;🔗+Data+→+Model+→+API+→+Deployment+→+Impact)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🧠 About Me
+<table align="center" border="0">
+<tr>
+<td width="55%" valign="top">
 
-I’m **M Mithun**, an **AI & Data Science undergraduate** at **Sri Eshwar College of Engineering**, passionate about building **intelligent, scalable, and production-ready systems**.
+## 🧠 Who Am I?
 
-I work at the intersection of **Machine Learning, Generative AI, and Backend Engineering**, focusing on turning models and data into **real-world, deployable solutions**.
+```python
+class MMithun:
+    name       = "M Mithun"
+    role       = "AI & Data Science Undergraduate"
+    college    = "Sri Eshwar College of Engineering"
+    location   = "Tamil Nadu, India 🇮🇳"
 
-* 🔭 End-to-end AI systems (data → model → API → deployment)
-* 🌱 Exploring Generative AI, LLMs, AI agents, Cloud & DevOps
-* 💬 Ask me about ML, NLP, FastAPI, backend architecture
-* ⚡ I enjoy automating workflows and tools
+    focus = [
+        "Generative AI & LLMs",
+        "Agentic AI Systems",
+        "ML Engineering",
+        "Backend & API Design",
+    ]
 
----
+    currently_building = "Production-Ready AI Systems"
+    fun_fact = "I automate everything I touch ⚡"
 
-## 🌐 Connect With Me
+    def mission(self):
+        return "Turn models into real-world impact 🚀"
+```
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/m-mithun-85787628b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:mmithun1701@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/Mithun017" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
+</td>
+<td width="45%" align="center" valign="top">
 
----
+<br/>
 
-## 🧰 Tech Stack
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="300" alt="Coding" style="border-radius:16px;" />
 
-### 🧠 AI & Machine Learning
+<br/><br/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-mithun-85787628b/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mithun017)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmithun1701@gmail.com)
 
-* Machine Learning, Deep Learning (CNN, RNN, LSTM, Transformers)
-* Generative AI, Large Language Models (LLMs), Agentic AI
-* NLP, Embeddings, Recommender Systems
-* Time Series (ARIMA), Predictive Analytics
-* Digital Twin Modeling, Audio & Signal Analysis
-
-### 💻 Programming
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,r,javascript" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,mongodb" />
-</p>
-
-* TensorFlow, PyTorch, LangChain
-* Hugging Face, OpenAI APIs
-* FastAPI, Streamlit
-* Scikit-learn, Keras, NLTK, GeoPandas
-* MongoDB
-
-### ☁️ Cloud & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-</p>
-
-* AWS, Docker, Git, GitHub
-* CI/CD Pipelines, API Integration, Deployment
+</td>
+</tr>
+</table>
 
 ---
 
-## 📁 Repositories
+## 🚀 My AI Engineering Spectrum
 
-I actively maintain and experiment with projects across **AI, Machine Learning, Backend Systems, and Cloud Engineering**.
+<div align="center">
 
-<p align="center">
-  🔗 <a href="https://github.com/Mithun017?tab=repositories"><strong>View all repositories on GitHub →</strong></a>
-</p>
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    ◈  FULL-STACK AI PIPELINE  ◈                     ║
+╠══════════╦══════════════╦═════════════╦═════════════╦═══════════════╣
+║  DATA    ║   MODELS     ║  INFERENCE  ║    APIs     ║  DEPLOYMENT   ║
+║──────────║──────────────║─────────────║─────────────║───────────────║
+║ GeoPandas║ Transformers ║  LangChain  ║   FastAPI   ║    Docker     ║
+║  NLTK    ║ CNN/RNN/LSTM ║   RAG/Eval  ║  REST APIs  ║    AWS EC2    ║
+║  ARIMA   ║ LLM Fine-tune║ AI Agents   ║  Streaming  ║  CI/CD Pipes  ║
+╚══════════╩══════════════╩═════════════╩═════════════╩═══════════════╝
+```
 
-> This link always reflects my **latest and complete work**, including newly created repositories.
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&theme=react-dark&hide_border=true" />
-</p>
-
-## 📈 Stats
-![](https://github-readme-stats.vercel.app/api?username=Mithun017&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mithun017&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-
-## 🧑‍💻 Leadership & Recognition
-
-* **Vice-President — IETE Student Forum**
-* **IIT PALS Campus Ambassador**
-* **IEEE Published Author**
+</div>
 
 ---
 
-⭐ Feel free to explore my repositories or reach out for collaborations and opportunities.
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+### 🤖 AI / ML / GenAI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Backend & Infra
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Expertise Radar
+
+<div align="center">
+
+| Domain | Expertise | Level |
+|---|---|---|
+| 🧠 Generative AI & LLMs | `█████████░` | Advanced |
+| 🤖 Agentic AI & RAG | `████████░░` | Advanced |
+| 🔬 Deep Learning (CNN/RNN/Transformers) | `████████░░` | Advanced |
+| ⚡ Backend APIs (FastAPI) | `████████░░` | Advanced |
+| ☁️ Cloud & DevOps (AWS/Docker) | `██████░░░░` | Intermediate |
+| 📈 Time Series & Predictive Analytics | `███████░░░` | Advanced |
+| 🔊 Audio & Signal Analysis | `██████░░░░` | Intermediate |
+
+</div>
+
+---
+
+## 📈 GitHub Intelligence Dashboard
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7DF9FF&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Mithun017&theme=tokyonight&hide_border=true&background=0d1117&stroke=7DF9FF&ring=7DF9FF&fire=FF6B6B&currStreakLabel=7DF9FF" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7DF9FF&line=7DF9FF&point=ffffff&area=true&area_color=7DF9FF" width="95%" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mithun017&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
+</div>
+
+---
+
+## 👑 Leadership & Recognition
+
+<div align="center">
+
+| 🏅 Role | 🏢 Organization |
+|---|---|
+| 🎯 **Vice-President** | IETE Student Forum |
+| 🌐 **Campus Ambassador** | IIT PALS Program |
+| 📄 **Published Author** | IEEE |
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+mindmap
+  root((Mithun's AI Focus))
+    GenAI
+      LLM Fine-tuning
+      Prompt Engineering
+      RAG Pipelines
+    Agents
+      Multi-Agent Systems
+      Tool-Augmented LLMs
+      Autonomous Workflows
+    Backend
+      FastAPI Systems
+      Scalable Deployments
+      Real-time APIs
+    Cloud
+      AWS Architecture
+      Docker Containers
+      CI/CD Automation
+```
+
+---
+
+<div align="center">
+
+### 💬 Philosophy
+
+> *"Don't just study AI — build with it. Every model should solve a real problem."*
+> 
+> — **M Mithun**
+
+<br/>
+
+[![Repos](https://img.shields.io/badge/🔗%20Explore%20All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mithun017?tab=repositories)
+
+<br/>
+
+**⭐ If my work helps you — a star means everything! Let's connect and build something impactful together.**
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mithun017&style=for-the-badge&color=7DF9FF&label=PROFILE+VIEWS)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
