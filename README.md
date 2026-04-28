@@ -105,6 +105,11 @@ I actively maintain and experiment with projects across **AI, Machine Learning, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
+![Mithun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=radical)
+
+
+
 ## 🧑‍💻 Leadership & Recognition
 
 * **Vice-President — IETE Student Forum**
