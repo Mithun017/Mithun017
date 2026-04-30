@@ -100,6 +100,8 @@ I actively maintain and experiment with projects across **AI, Machine Learning, 
 </p>
 
 ## 📈 Stats
+![Mithun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=dark&cache_seconds=1800)
+
 ![Mithun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=dark)<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=dark)
 ---
