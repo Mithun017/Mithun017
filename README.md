@@ -108,11 +108,8 @@ I actively maintain and experiment with projects across **AI, Machine Learning, 
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=dark&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=dark&cache_seconds=1800&v=5" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=dark&v=5" height="180"/>
 </p>
 
 ---
