@@ -98,12 +98,16 @@ I actively maintain and experiment with projects across **AI, Machine Learning, 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&theme=react-dark&hide_border=true" />
 </p>
+<!-- GitHub Stats Section -->
 
 ## 📈 Stats
 ![Mithun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=dark&cache_seconds=1800)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=dark)
----
+--- 
+
+<!-- End of Stats Section -->
+
 
 ## 🧑‍💻 Leadership & Recognition
 
