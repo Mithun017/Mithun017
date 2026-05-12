@@ -121,6 +121,9 @@ I actively maintain and experiment with projects across **AI, Machine Learning, 
 </p>
 ```
 
+[![Mithun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight)](https://github.com/Mithun017)
+```
+
 
 ## 🧑‍💻 Leadership & Recognition
 
