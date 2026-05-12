@@ -102,15 +102,22 @@ I actively maintain and experiment with projects across **AI, Machine Learning, 
 
 ## 📊 GitHub Stats
 
-
-[![Mithun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight)](https://github.com/Mithun017)
-  
-
 <p align="center">
+
+  <a href="https://github.com/Mithun017">
+    <img 
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight&hide_border=true" 
+      height="180"
+    />
+  </a>
+
   <img 
     src="https://streak-stats.demolab.com?user=Mithun017&theme=tokyonight&hide_border=true" 
+    height="180"
   />
+
 </p>
+```
 
 
 
