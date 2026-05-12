@@ -114,6 +114,26 @@ I actively maintain and experiment with projects across **AI, Machine Learning, 
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Mithun017&theme=tokyonight&hide_border=true" 
+  />
+</p>
+
 ## 🧑‍💻 Leadership & Recognition
 
 * **Vice-President — IETE Student Forum**
