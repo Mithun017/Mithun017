@@ -102,27 +102,18 @@ I actively maintain and experiment with projects across **AI, Machine Learning, 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="180"
-  />
+
+[![Mithun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight)](https://github.com/Mithun017)
   
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="180"
-  />
-</p>
 
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=Mithun017&theme=tokyonight&hide_border=true" 
   />
 </p>
-```
 
-[![Mithun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight)](https://github.com/Mithun017)
-```
+
+
 
 
 ## 🧑‍💻 Leadership & Recognition
