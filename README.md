@@ -99,31 +99,17 @@ I actively maintain and experiment with projects across **AI, Machine Learning, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&theme=react-dark&hide_border=true" />
 </p>
 
-## 📈 Stats
-![Mithun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=dark&cache_seconds=1800)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=dark)
----       
 
-## 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=dark&cache_seconds=1800&v=5" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=dark&v=5" height="180"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
     height="180"
   />
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
     height="180"
   />
 </p>
@@ -133,6 +119,8 @@ I actively maintain and experiment with projects across **AI, Machine Learning, 
     src="https://streak-stats.demolab.com?user=Mithun017&theme=tokyonight&hide_border=true" 
   />
 </p>
+```
+
 
 ## 🧑‍💻 Leadership & Recognition
 
