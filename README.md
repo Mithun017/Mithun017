@@ -111,13 +111,9 @@ I actively maintain and experiment with projects across **AI, Machine Learning, 
     />
   </a>
 
-  <img 
-    src="https://streak-stats.demolab.com?user=Mithun017&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
+  <p align="center"> <img src="https://streak-stats.demolab.com?user=Mithun017&theme=tokyonight&hide_border=true" /> </p>
 
 </p>
-```
 
 
 
