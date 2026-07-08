@@ -99,17 +99,10 @@ I actively maintain and experiment with projects across **AI, Machine Learning, 
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&bg_color=0d1117&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true&custom_title=M%20Mithun%20Contribution%20Graph" alt="M Mithun Contribution Graph" />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&custom_title=M%20Mithun%20%7C%20Engineering%20Activity%20Map&bg_color=020617&color=67e8f9&line=22d3ee&point=ffffff&area=true&area_color=0891b2&hide_border=true" />
 </p>
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="Mithun GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Mithun Top Languages" />
-</p>
 
 ## 📊 GitHub Stats
 
