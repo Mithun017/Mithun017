@@ -3,7 +3,7 @@
   Cleaned version: duplicates removed, structure consolidated, formal tone
 -->
 
-<!--  Stable GitHub Profile README for M Mithun  Focus: cleaner rendering, reliable badges, no broken tech stack or failing GitHub cards--><h1 align="center">Hi, I'm <strong>M Mithun</strong> 👋</h1> <p align="center">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate;Applied+AI+%26+ML+Engineer;Generative+AI+%7C+LLMs+%7C+AI+Agents;Backend+%26+Intelligent+Systems;Building+Impactful+AI+Solutions" alt="Typing SVG" /></p>
+<p align="center">  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="320" alt="Coding Animation" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=950&lines=AI+%26+Data+Science+Undergraduate;Applied+AI+%26+Machine+Learning+Engineer;Generative+AI+%7C+LLMs+%7C+AI+Agents;Backend+Engineering+%7C+Intelligent+Systems;Building+Impactful+AI+Solutions" alt="Typing SVG" />
