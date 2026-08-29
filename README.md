@@ -3,11 +3,15 @@
   Cleaned version: duplicates removed, structure consolidated, formal tone
 -->
 
-<p align="center">  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="320" alt="Coding Animation" /></p>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:020617,25:0f172a,50:0891b2,75:2563eb,100:7c3aed&text=M%20MITHUN&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Undergraduate%20%E2%80%A2%20Applied%20AI%20%26%20ML%20Engineer%20%E2%80%A2%20Generative%20AI%20Builder&descAlignY=58&descSize=17" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=950&lines=AI+%26+Data+Science+Undergraduate;Applied+AI+%26+Machine+Learning+Engineer;Generative+AI+%7C+LLMs+%7C+AI+Agents;Backend+Engineering+%7C+Intelligent+Systems;Building+Impactful+AI+Solutions" alt="Typing SVG" />
 </p>
+
+<p align="center">  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="320" alt="Coding Animation" /></p>
 
 <p align="center">
   <strong>🚀 AI & Data Science | Generative AI | ML Systems | Backend Engineering</strong>
