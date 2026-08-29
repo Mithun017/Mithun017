@@ -1,138 +1,7 @@
 <!--
-  Stable GitHub Profile README for M Mithun
-  Focus: cleaner rendering, reliable badges, no broken tech stack or failing GitHub cards
---><h1 align="center">Hi, I'm <strong>M Mithun</strong> 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate;Applied+AI+%26+ML+Engineer;Generative+AI+%7C+LLMs+%7C+AI+Agents;Backend+%26+Intelligent+Systems;Building+Impactful+AI+Solutions" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <strong>🚀 AI & Data Science | Generative AI | ML Systems | Backend Engineering</strong>
-</p>
-
-
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="320" alt="Coding Animation" />
-</p>
-
----
-
-## 🧠 About Me
-
-I’m **M Mithun**, an **AI & Data Science undergraduate** at **Sri Eshwar College of Engineering**, passionate about building **intelligent, scalable, and production-ready systems**.
-
-I work at the intersection of **Machine Learning, Generative AI, and Backend Engineering**, focusing on turning models and data into **real-world, deployable solutions**.
-
-* 🔭 End-to-end AI systems (data → model → API → deployment)
-* 🌱 Exploring Generative AI, LLMs, AI agents, Cloud & DevOps
-* 💬 Ask me about ML, NLP, FastAPI, backend architecture
-* ⚡ I enjoy automating workflows and tools
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/m-mithun-85787628b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:mmithun1701@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/Mithun017" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
-
----
-
-## 🧰 Tech Stack
-
-### 🧠 AI & Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-* Machine Learning, Deep Learning (CNN, RNN, LSTM, Transformers)
-* Generative AI, Large Language Models (LLMs), Agentic AI
-* NLP, Embeddings, Recommender Systems
-* Time Series (ARIMA), Predictive Analytics
-* Digital Twin Modeling, Audio & Signal Analysis
-
-### 💻 Programming
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,r,javascript" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,mongodb" />
-</p>
-
-* TensorFlow, PyTorch, LangChain
-* Hugging Face, OpenAI APIs
-* FastAPI, Streamlit
-* Scikit-learn, Keras, NLTK, GeoPandas
-* MongoDB
-
-### ☁️ Cloud & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-</p>
-
-* AWS, Docker, Git, GitHub
-* CI/CD Pipelines, API Integration, Deployment
-
----
-
-## 📁 Repositories
-
-I actively maintain and experiment with projects across **AI, Machine Learning, Backend Systems, and Cloud Engineering**.
-
-<p align="center">
-  🔗 <a href="https://github.com/Mithun017?tab=repositories"><strong>View all repositories on GitHub →</strong></a>
-</p>
-
-> This link always reflects my **latest and complete work**, including newly created repositories.
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&custom_title=M%20Mithun%20%7C%20Engineering%20Activity%20Map&bg_color=020617&color=67e8f9&line=22d3ee&point=ffffff&area=true&area_color=0891b2&hide_border=true" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <a href="https://github.com/Mithun017">
-    <img 
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight&hide_border=true" 
-      height="180"
-    />
-  </a>
-
-  <p align="center"> <img src="https://streak-stats.demolab.com?user=Mithun017&theme=tokyonight&hide_border=true" /> </p>
-
-</p>
-
-
-
-
-
-## 🧑‍💻 Leadership & Recognition
-
-* **Vice-President — IETE Student Forum**
-* **IIT PALS Campus Ambassador**
-* **IEEE Published Author**
-
----
-
-⭐ Feel free to explore my repositories or reach out for collaborations and opportunities.
-
+  GitHub Profile README for M Mithun
+  Cleaned version: duplicates removed, structure consolidated, formal tone
+-->
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:020617,25:0f172a,50:0891b2,75:2563eb,100:7c3aed&text=M%20MITHUN&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Undergraduate%20%E2%80%A2%20Applied%20AI%20%26%20ML%20Engineer%20%E2%80%A2%20Generative%20AI%20Builder&descAlignY=58&descSize=17" />
@@ -170,7 +39,7 @@ I actively maintain and experiment with projects across **AI, Machine Learning, 
 
 ## 🧠 About Me
 
-I’m **M Mithun**, an **AI & Data Science undergraduate** at **Sri Eshwar College of Engineering**, passionate about building **intelligent, scalable, and production-ready systems**.
+I'm **M Mithun**, an **AI & Data Science undergraduate** at **Sri Eshwar College of Engineering**, passionate about building **intelligent, scalable, and production-ready systems**.
 
 I work at the intersection of **Machine Learning, Generative AI, and Backend Engineering**, focusing on turning models and data into **real-world deployable solutions**.
 
@@ -209,6 +78,16 @@ builder_mode: Always ON
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:mmithun1701@gmail.com"><img src="https://img.shields.io/badge/Gmail-mmithun1701%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/m-mithun-85787628b/"><img src="https://img.shields.io/badge/LinkedIn-M%20Mithun-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Mithun017"><img src="https://img.shields.io/badge/GitHub-Mithun017-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 ### 🖥️ Programming Languages
@@ -232,6 +111,12 @@ builder_mode: Always ON
   <img src="https://img.shields.io/badge/Hugging%20Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+
+* Machine Learning, Deep Learning (CNN, RNN, LSTM, Transformers)
+* Generative AI, Large Language Models (LLMs), Agentic AI
+* NLP, Embeddings, Recommender Systems
+* Time Series (ARIMA), Predictive Analytics
+* Digital Twin Modeling, Audio & Signal Analysis
 
 ### ⚙️ Backend / Databases / Tools
 
@@ -306,30 +191,7 @@ I actively maintain and experiment with projects across **AI, Machine Learning, 
   🔗 <a href="https://github.com/Mithun017?tab=repositories"><strong>View all repositories on GitHub →</strong></a>
 </p>
 
-> This always reflects my **latest and complete work**, including new repositories and experiments.
-
----
-
-## 🧑‍💼 Leadership & Recognition
-
-- **Vice-President — IETE Student Forum**
-- **IIT PALS Campus Ambassador**
-- **IEEE Published Author**
-
----
-
-## 📊 GitHub Stats
-
-> If GitHub stats cards fail due to API/rate limits, you can temporarily remove this section.
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Mithun017&theme=tokyonight&hide_border=true" />
-</p>
+> This link always reflects my **latest and complete work**, including newly created repositories.
 
 ---
 
@@ -361,16 +223,43 @@ Open_To:
 
 ---
 
-## 🌐 Connect With Me
+## 🔥 Contribution Graph
 
 <p align="center">
-  <a href="mailto:mmithun1701@gmail.com"><img src="https://img.shields.io/badge/Gmail-mmithun1701%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/m-mithun-85787628b/"><img src="https://img.shields.io/badge/LinkedIn-M%20Mithun-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Mithun017"><img src="https://img.shields.io/badge/GitHub-Mithun017-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&custom_title=M%20Mithun%20%7C%20Engineering%20Activity%20Map&bg_color=020617&color=67e8f9&line=22d3ee&point=ffffff&area=true&area_color=0891b2&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+> If GitHub stats cards fail to load due to API/rate limits, this section can be temporarily removed.
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mithun017&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun017&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <b>“Building intelligent systems that connect data, models, and real-world impact.”</b>
+  <img height="170" src="https://streak-stats.demolab.com?user=Mithun017&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧑‍💼 Leadership & Recognition
+
+- **Vice-President — IETE Student Forum**
+- **IIT PALS Campus Ambassador**
+- **IEEE Published Author**
+
+---
+
+<p align="center">
+  <b>"Building intelligent systems that connect data, models, and real-world impact."</b>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories or reach out for collaborations and opportunities.
 </p>
 
 <p align="center">
