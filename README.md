@@ -260,6 +260,4 @@ Open_To:
   ⭐ Feel free to explore my repositories or reach out for collaborations and opportunities.
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:7c3aed,35:2563eb,70:0891b2,100:020617" />
-</p>
+
