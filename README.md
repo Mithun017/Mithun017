@@ -224,7 +224,21 @@ Open_To:
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&custom_title=M%20Mithun%20%7C%20Engineering%20Activity%20Map&bg_color=020617&color=67e8f9&line=22d3ee&point=ffffff&area=true&area_color=0891b2&hide_border=true" />
+  <img
+    src="https://ghchart.rshah.org/0891b2/Mithun017"
+    alt="M Mithun GitHub Contributions"
+    width="95%"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&custom_title=M%20Mithun%20%7C%20GitHub%20Activity&bg_color=ffffff&color=4caf50&line=4caf50&point=4caf50&area=false&hide_border=false&radius=8&days=31&grid=true"
+    alt="M Mithun GitHub Activity Graph"
+    width="95%"
+  />
 </p>
 
 ---
