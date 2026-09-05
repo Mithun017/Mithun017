@@ -224,10 +224,9 @@ Open_To:
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <!-- GitHub Contribution Calendar -->
   <img
     src="https://ghchart.rshah.org/0891b2/Mithun017"
-    alt="M Mithun GitHub Contribution Calendar"
+    alt="Mithun017 GitHub Contribution Graph"
     width="95%"
   />
 </p>
@@ -235,10 +234,9 @@ Open_To:
 <br>
 
 <p align="center">
-  <!-- Last 28 Days Contribution Line Graph -->
   <img
-    src="https://github-contribution-graph.ez4o.com/?username=Mithun017&last_n_days=28"
-    alt="M Mithun GitHub Contribution Line Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&bg_color=0d1117&color=8b949e&line=44a340&point=44a340&area=false&hide_border=true&days=28&custom_title=Contributions"
+    alt="Mithun017 Contributions"
     width="95%"
   />
 </p>
