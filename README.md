@@ -226,7 +226,7 @@ Open_To:
 <p align="center">
   <img
     src="https://ghchart.rshah.org/0891b2/Mithun017"
-    alt="M Mithun GitHub Contributions"
+    alt="M Mithun GitHub Contribution Graph"
     width="95%"
   />
 </p>
@@ -235,7 +235,7 @@ Open_To:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&custom_title=M%20Mithun%20%7C%20GitHub%20Activity&bg_color=ffffff&color=4caf50&line=4caf50&point=4caf50&area=false&hide_border=false&radius=8&days=31&grid=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&theme=github-compact&hide_border=true"
     alt="M Mithun GitHub Activity Graph"
     width="95%"
   />
