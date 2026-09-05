@@ -235,11 +235,12 @@ Open_To:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&bg_color=0d1117&color=8b949e&line=44a340&point=44a340&area=false&hide_border=true&days=28&custom_title=Contributions"
-    alt="Mithun017 Contributions"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun017&theme=github-compact&days=28&hide_border=true&area=false"
+    alt="Mithun017 GitHub Activity Graph"
     width="95%"
   />
 </p>
+
 
 ---
 
